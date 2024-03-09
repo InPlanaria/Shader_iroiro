@@ -1,5 +1,6 @@
 # Shader_iroiro
 InPlanariaの作ったUnity向けシェーダー色々 ライセンスCC0
+適当にフォルダをダウンロードして使ってください
 
 
 ## Inplanaria/Amplify/StandardCustom
